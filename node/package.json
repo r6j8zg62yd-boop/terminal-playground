@@ -1,0 +1,11 @@
+{
+  "name": "terminal-playground-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js sandbox examples",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "hello": "node hello.js"
+  }
+}
